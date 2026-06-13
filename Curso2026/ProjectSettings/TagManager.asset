@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Botiquin
   - Veneno
+  - Enemigo
   layers:
   - Default
   - TransparentFX
